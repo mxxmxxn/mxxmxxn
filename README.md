@@ -1,80 +1,93 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey+👋,+I'm+Mimoun;Full+Stack+Developer;Java+%7C+JavaScript+%7C+Odoo;Building+clean+and+scalable+applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Mimoun;Full+Stack+Developer;Java+%7C+JavaScript+%7C+AI+Systems;Building+scalable+software+and+AI+workflows"/>
 
 <br>
 
-<img src="https://img.shields.io/github/followers/mxxmxxn?style=for-the-badge&logo=github&label=Followers"/>
-<img src="https://img.shields.io/github/stars/mxxmxxn?style=for-the-badge&logo=github&label=Stars"/>
-<img src="https://komarev.com/ghpvc/?username=mxxmxxn&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/mxxmxxn?style=for-the-badge&logo=github&label=Followers&color=0f172a"/>
+<img src="https://img.shields.io/github/stars/mxxmxxn?style=for-the-badge&logo=github&label=Stars&color=0f172a"/>
+<img src="https://komarev.com/ghpvc/?username=mxxmxxn&style=for-the-badge&color=0ea5e9"/>
 
 </div>
 
 ---
 
-# 💻 About Me
+## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="26"> Profile
 
-```java
+```java id="core-profile"
 public class Mimoun {
 
     String role = "Full Stack Developer";
-    String location = "Spain 🇪🇸";
-    String currentWork = "Odoo Developer";
 
-    String[] languages = {
-        "Java",
-        "JavaScript",
-        "PHP",
-        "SQL"
-    };
+    String focus = "Scalable Web Systems + AI Integration";
 
-    String[] interests = {
-        "Backend Development",
-        "Clean Architecture",
-        "UI/UX",
-        "Web Applications"
-    };
+    String location = "Spain";
+
+    String mainStack = "Java + JavaScript";
+
+    String[] backend = {"Java", "C#", "PHP"};
+    String[] frontend = {"HTML", "CSS", "JavaScript"};
+
+    String[] databases = {"MySQL", "PostgreSQL", "Supabase"};
+
+    String[] devops = {"Docker", "Vercel", "Render", "AWS (basic)"};
+
+    String[] tools = {"Git", "GitHub", "VS Code"};
 
 }
 ```
 
 ---
 
-# ⚒️ Tech Arsenal
+## <img src="https://img.icons8.com/fluency/48/source-code.png" width="26"> Tech Stack
 
 <div align="center">
 
-### Languages
+### Core Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,php,python,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,js,cs,php"/>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css"/>
 
-### Backend
+### Databases
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,laravel"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,render"/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </div>
 
 ---
 
-# 📈 GitHub Analytics
+## <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="26"> AI Systems
+
+```text id="ai-stack"
+- AI Agents (automation & workflows)
+- Prompt Engineering (advanced prompting strategies)
+- Claude Code integration
+- DeepSeek / GLM usage
+- AI-assisted development pipelines
+```
+
+---
+
+## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="26"> GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mxxmxxn&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mxxmxxn&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxxmxxn&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxxmxxn&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=mxxmxxn&theme=tokyonight&hide_border=true"/>
 
@@ -82,25 +95,22 @@ public class Mimoun {
 
 ---
 
-# 🚀 Current Focus
+## <img src="https://img.icons8.com/fluency/48/rocket.png" width="26"> Current Focus
 
-* Building scalable web applications.
-* Improving software architecture skills.
-* Learning more about Laravel, Spring Boot and Odoo.
-* Writing cleaner and maintainable code.
+* Designing scalable backend architectures
+* AI agent systems for automation
+* Improving system design & clean code
+* Cloud deployment workflows (Docker + platforms)
+* Building production-ready full stack apps
 
 ---
 
+## <img src="https://img.icons8.com/fluency/48/new-post.png" width="26"> Contact
+
 <div align="center">
-
-### 📫 Reach me
-
-<a href="mailto:tu_correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <a href="https://github.com/mxxmxxn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -109,9 +119,8 @@ public class Mimoun {
 
 <div align="center">
 
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*
-> **— Harold Abelson**
+### “Software is never finished, only deployed.”
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=120&section=footer">
