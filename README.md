@@ -23,72 +23,12 @@
   <a href="tel:+34651919085"><img src="https://img.shields.io/badge/651%20919%20085-1B4332?style=for-the-badge&labelColor=0A1410&logo=phone&logoColor=E0B84C"/></a>
 </p>
 
-<!-- ======================= DIVIDER ======================= -->
+<!-- ======================= PERFIL (imagen única, idéntica al diseño) ======================= -->
 <p align="center">
-  <img src="https://api.iconify.design/game-icons/crossed-swords.svg?color=%23E0B84C&width=32" />
+  <img src="./assets/perfil.png" width="100%"/>
 </p>
 
-<!-- ======================= SOBRE MÍ ======================= -->
-<p align="center">
-  <img src="./assets/sec-sobre.png" width="100%"/>
-</p>
-
-<!-- ======================= DIVIDER ======================= -->
-<p align="center">
-  <img src="https://api.iconify.design/game-icons/crossed-swords.svg?color=%23E0B84C&width=32" />
-</p>
-
-<!-- ======================= STACK ======================= -->
-<p align="center">
-  <img src="./assets/sec-stack.png" width="100%"/>
-</p>
-
-<!-- ======================= DIVIDER ======================= -->
-<p align="center">
-  <img src="https://api.iconify.design/game-icons/crossed-swords.svg?color=%23E0B84C&width=32" />
-</p>
-
-<!-- ======================= EXPERIENCIA ======================= -->
-<p align="center">
-  <img src="./assets/sec-experiencia.png" width="100%"/>
-</p>
-
-<!-- ======================= DIVIDER ======================= -->
-<p align="center">
-  <img src="https://api.iconify.design/game-icons/crossed-swords.svg?color=%23E0B84C&width=32" />
-</p>
-
-<!-- ======================= PROYECTOS ======================= -->
-<p align="center">
-  <img src="./assets/sec-proyectos.png" width="100%"/>
-</p>
-
-<!-- ======================= DIVIDER ======================= -->
-<p align="center">
-  <img src="https://api.iconify.design/game-icons/crossed-swords.svg?color=%23E0B84C&width=32" />
-</p>
-
-<!-- ======================= COMPETENCIAS ======================= -->
-<p align="center">
-  <img src="./assets/sec-competencias.png" width="100%"/>
-</p>
-
-<!-- ======================= DIVIDER ======================= -->
-<p align="center">
-  <img src="https://api.iconify.design/game-icons/crossed-swords.svg?color=%23E0B84C&width=32" />
-</p>
-
-<!-- ======================= FORMACIÓN + IDIOMAS ======================= -->
-<p align="center">
-  <img src="./assets/sec-formacion.png" width="100%"/>
-</p>
-
-<!-- ======================= DIVIDER ======================= -->
-<p align="center">
-  <img src="https://api.iconify.design/game-icons/crossed-swords.svg?color=%23E0B84C&width=32" />
-</p>
-
-<!-- ======================= ESTADÍSTICAS ======================= -->
+<!-- ======================= ESTADÍSTICAS (en vivo, debajo de la imagen) ======================= -->
 <p align="center">
   <img src="./assets/head-stats.png" width="100%"/>
 </p>
@@ -106,7 +46,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mxxmxxn&bg_color=0F1D16&color=D8C3A5&line=52B788&point=E0B84C&area=true&area_color=1B4332&hide_border=false&border_color=1B4332&custom_title=Actividad%20de%20contribuciones&title_color=E0B84C" width="98%"/>
 </p>
 
-<!-- ======================= TABLERO / SNAKE ======================= -->
+<!-- ======================= TABLERO / SNAKE (en vivo) ======================= -->
 <p align="center">
   <img src="./assets/head-tablero.png" width="100%"/>
 </p>
@@ -117,36 +57,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/snake.svg" />
     <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/snake.svg" width="98%" />
   </picture>
-</p>
-
-<!-- ======================= DIVIDER ======================= -->
-<p align="center">
-  <img src="https://api.iconify.design/game-icons/crossed-swords.svg?color=%23E0B84C&width=32" />
-</p>
-
-<!-- ======================= ACTUALMENTE ======================= -->
-<p align="center">
-  <img src="./assets/sec-actualmente.png" width="100%"/>
-</p>
-
-<!-- ======================= DIVIDER ======================= -->
-<p align="center">
-  <img src="https://api.iconify.design/game-icons/crossed-swords.svg?color=%23E0B84C&width=32" />
-</p>
-
-<!-- ======================= CONTACTO ======================= -->
-<p align="center">
-  <img src="./assets/head-contacto.png" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="mailto:mimoun.baltitmx@gmail.com"><img src="https://img.shields.io/badge/Gmail-1B4332?style=for-the-badge&labelColor=0A1410&logo=gmail&logoColor=52B788"/></a>
-  <a href="https://wa.me/34651919085"><img src="https://img.shields.io/badge/WhatsApp-1B4332?style=for-the-badge&labelColor=0A1410&logo=whatsapp&logoColor=E0B84C"/></a>
-  <a href="tel:+34651919085"><img src="https://img.shields.io/badge/651%20919%20085-1B4332?style=for-the-badge&labelColor=0A1410&logo=phone&logoColor=52B788"/></a>
-</p>
-
-<p align="center">
-  <img src="./assets/sec-quote.png" width="100%"/>
 </p>
 
 <!-- ======================= FOOTER ======================= -->
