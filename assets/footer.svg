@@ -1,12 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="">
   <defs>
     <linearGradient id="fbg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#2D6A4F"></stop>
-      <stop offset="0.55" stop-color="#1B4332"></stop>
-      <stop offset="1" stop-color="#0A1410"></stop>
+      <stop offset="0" stop-color="#08120D"></stop>
+      <stop offset="1" stop-color="#050B08"></stop>
+    </linearGradient>
+    <linearGradient id="fgold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A9781A"></stop>
+      <stop offset="0.5" stop-color="#E0B84C"></stop>
+      <stop offset="1" stop-color="#A9781A"></stop>
     </linearGradient>
   </defs>
-  <path d="M0,44 C200,12 400,74 600,44 C800,14 1000,74 1200,44 L1200,120 L0,120 Z" fill="url(#fbg)"></path>
-  <path d="M0,60 C220,30 420,86 640,54 C860,26 1020,80 1200,52 L1200,120 L0,120 Z" fill="#40916C" opacity="0.14"></path>
-  <path d="M0,74 C240,48 440,96 660,68 C880,44 1040,88 1200,66 L1200,120 L0,120 Z" fill="#52B788" opacity="0.08"></path>
+  <rect width="1200" height="120" fill="url(#fbg)"></rect>
+  <path d="M0,66 C220,40 420,92 640,62 C860,36 1020,88 1200,60 L1200,120 L0,120 Z" fill="#1B4332" opacity="0.16"></path>
+  <path d="M0,80 C240,56 440,100 660,74 C880,50 1040,92 1200,72 L1200,120 L0,120 Z" fill="#2D6A4F" opacity="0.10"></path>
+  <g>
+    <circle cx="230" cy="96" r="2.4" fill="#52B788" opacity="0.8"></circle>
+    <circle cx="360" cy="90" r="1.6" fill="#74C69D" opacity="0.7"></circle>
+    <circle cx="850" cy="94" r="2.0" fill="#E0B84C" opacity="0.8"></circle>
+    <circle cx="980" cy="92" r="1.6" fill="#52B788" opacity="0.7"></circle>
+  </g>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#fgold)"></rect>
 </svg>

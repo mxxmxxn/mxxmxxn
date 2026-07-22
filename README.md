@@ -165,21 +165,16 @@ Responsable de la **seguridad del LLM interno** de la empresa, con foco en la pr
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mxxmxxn&theme=gruvbox" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mxxmxxn&theme=gruvbox&utcOffset=2" width="49%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mxxmxxn&show_icons=true&count_private=true&include_all_commits=true&bg_color=0F1D16&title_color=E0B84C&text_color=D8C3A5&icon_color=52B788&border_color=1B4332&ring_color=E0B84C" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxxmxxn&layout=compact&langs_count=10&bg_color=0F1D16&title_color=E0B84C&text_color=D8C3A5&border_color=1B4332" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mxxmxxn&theme=gruvbox" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxxmxxn&theme=gruvbox" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=mxxmxxn&background=0F1D16&border=1B4332&ring=E0B84C&fire=52B788&currStreakLabel=E0B84C&currStreakNum=D8C3A5&sideLabels=D8C3A5&sideNums=74C69D&dates=74C69D&stroke=1B4332" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mxxmxxn&hide_border=true&background=0A1410&border=1B4332&ring=E0B84C&fire=52B788&currStreakLabel=E0B84C&currStreakNum=D8C3A5&sideLabels=D8C3A5&sideNums=52B788&dates=40916C&stroke=1B4332" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mxxmxxn&bg_color=0A1410&color=D8C3A5&line=52B788&point=E0B84C&area=true&area_color=1B4332&hide_border=true&custom_title=Actividad%20de%20contribuciones&title_color=E0B84C" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mxxmxxn&bg_color=0F1D16&color=D8C3A5&line=52B788&point=E0B84C&area=true&area_color=1B4332&hide_border=false&border_color=1B4332&custom_title=Actividad%20de%20contribuciones&title_color=E0B84C" width="98%"/>
 </p>
 
 <!-- ======================= SNAKE ======================= -->
