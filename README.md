@@ -1,6 +1,6 @@
 <!-- ======================= ONDA ANIMADA (Capsule Render) ======================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1410,50:1B4332,100:52B788&height=190&section=header&text=Mimoun%20Baltit&fontSize=44&fontColor=E0B84C&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20IA%20%26%20LLM%20Security&descSize=17&descAlignY=57&descColor=D8C3A5&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1410,50:1B4332,100:52B788&height=190&section=header&text=Mimoun%20Baltit&fontSize=44&fontColor=E0B84C&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20IA%20y%20LLM%20Security&descSize=17&descAlignY=57&descColor=D8C3A5&animation=fadeIn" width="100%"/>
 </p>
 
 <!-- ======================= HEADER ======================= -->
