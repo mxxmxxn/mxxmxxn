@@ -68,5 +68,17 @@
       <animateTransform attributeName="transform" type="translate" values="1340 0; -200 0" dur="2.0s" begin="2.3s" repeatCount="indefinite"></animateTransform>
       <animate attributeName="opacity" values="0;0.36;0.36;0" keyTimes="0;0.15;0.7;1" dur="2.0s" begin="2.3s" repeatCount="indefinite"></animate>
     </line>
+    <line x1="0" y1="35" x2="90" y2="35" stroke="#F3D27A" stroke-width="2" opacity="0">
+      <animateTransform attributeName="transform" type="translate" values="1340 0; -160 0" dur="2.2s" begin="0.7s" repeatCount="indefinite"></animateTransform>
+      <animate attributeName="opacity" values="0;0.34;0.34;0" keyTimes="0;0.15;0.7;1" dur="2.2s" begin="0.7s" repeatCount="indefinite"></animate>
+    </line>
+    <line x1="0" y1="60" x2="120" y2="60" stroke="#E0B84C" stroke-width="2.5" opacity="0">
+      <animateTransform attributeName="transform" type="translate" values="1340 0; -200 0" dur="1.8s" begin="1.5s" repeatCount="indefinite"></animateTransform>
+      <animate attributeName="opacity" values="0;0.4;0.4;0" keyTimes="0;0.15;0.7;1" dur="1.8s" begin="1.5s" repeatCount="indefinite"></animate>
+    </line>
+    <line x1="0" y1="78" x2="85" y2="78" stroke="#D8C3A5" stroke-width="2" opacity="0">
+      <animateTransform attributeName="transform" type="translate" values="1340 0; -160 0" dur="2.4s" begin="2.0s" repeatCount="indefinite"></animateTransform>
+      <animate attributeName="opacity" values="0;0.32;0.32;0" keyTimes="0;0.15;0.7;1" dur="2.4s" begin="2.0s" repeatCount="indefinite"></animate>
+    </line>
   </g>
 </svg>
