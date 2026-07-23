@@ -29,9 +29,16 @@
   <rect width="1200" height="330" fill="url(#bg)"></rect>
   <rect width="1200" height="330" fill="url(#aura)"></rect>
   <g opacity="0.85">
-    <path d="M0,205 L150,120 L240,165 L360,95 L470,168 L560,110 L680,175 L790,120 L920,180 L1050,130 L1160,185 L1200,160 L1200,300 L0,300 Z" fill="#161b22" opacity="0.7"></path>
-    <path d="M0,240 L120,175 L250,225 L360,160 L500,235 L640,165 L780,240 L900,180 L1040,245 L1160,190 L1200,225 L1200,300 L0,300 Z" fill="#21262d"></path>
-    <path d="M360,95 L400,120 L378,135 L415,158 L470,168" fill="none" stroke="#8b949e" stroke-width="2" opacity="0.4"></path>
+    <!-- Montañas lejanas (parallax lento) -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="40s" repeatCount="indefinite"></animateTransform>
+      <path d="M0,175 L150,110 L300,160 L450,100 L600,165 L750,105 L900,160 L1050,115 L1200,175 L1350,110 L1500,160 L1650,100 L1800,165 L1950,105 L2100,160 L2250,115 L2400,175 L2400,300 L0,300 Z" fill="#161b22" opacity="0.7"></path>
+    </g>
+    <!-- Montañas delanteras (parallax más rápido) -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="26s" repeatCount="indefinite"></animateTransform>
+      <path d="M0,235 L150,180 L300,235 L450,172 L600,238 L750,175 L900,235 L1050,182 L1200,235 L1350,180 L1500,235 L1650,172 L1800,238 L1950,175 L2100,235 L2250,182 L2400,235 L2400,300 L0,300 Z" fill="#21262d"></path>
+    </g>
   </g>
   <g text-anchor="middle" font-family="'Segoe UI', Verdana, Geneva, sans-serif">
     <text x="600" y="146" font-size="52" font-weight="700" letter-spacing="2" fill="url(#gold)" filter="url(#glow)">Mimoun Baltit Khadiri</text>

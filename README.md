@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 <p align="center">
-  <img src="./assets/header.svg?v=3" width="100%"/>
+  <img src="./assets/header.svg?v=4" width="100%"/>
 </p>
 
 <!-- ======================= TYPING ======================= -->
