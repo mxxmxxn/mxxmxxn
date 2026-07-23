@@ -1,4 +1,4 @@
-name: Generar serpiente de contribuciones
+name: Generar animaciones de contribuciones
 
 on:
   schedule:
@@ -14,8 +14,16 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 20
     steps:
+      # Pac-Man primero: crea/gestiona el directorio dist/
+      - name: Generar SVGs de Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
+
+      # Serpiente después: escribe sus SVGs dentro del mismo dist/ sin borrar los de Pac-Man
       - name: Generar SVGs de la serpiente
         uses: Platane/snk@v3
         with:
@@ -24,10 +32,12 @@ jobs:
             dist/snake.svg?color_snake=#E0B84C&color_dots=#0F1D16,#1B4332,#2D6A4F,#40916C,#52B788
             dist/snake-dark.svg?color_snake=#E0B84C&color_dots=#0F1D16,#1B4332,#2D6A4F,#40916C,#52B788
 
+      # Una sola publicación de todo dist/ en la rama output (keep_files evita que se pisen entre sí)
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
