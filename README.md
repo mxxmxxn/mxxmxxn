@@ -60,11 +60,6 @@
   </picture>
 </p>
 
-<!-- ======================= CALENDARIO 3D ISOMÉTRICO (en vivo, animado) ======================= -->
-<p align="center">
-  <img alt="Calendario 3D de contribuciones" src="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/profile-green-animate.svg" width="98%" />
-</p>
-
 <!-- ======================= FOOTER ======================= -->
 <p align="center">
   <img src="./assets/footer.svg" width="100%"/>
