@@ -16,28 +16,34 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      # Pac-Man primero: crea/gestiona el directorio dist/
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Pac-Man -> dist/
       - name: Generar SVGs de Pac-Man
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'pacman'
 
-      # Serpiente después: escribe sus SVGs dentro del mismo dist/ sin borrar los de Pac-Man
-      - name: Generar SVGs de la serpiente
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?color_snake=#E0B84C&color_dots=#0F1D16,#1B4332,#2D6A4F,#40916C,#52B788
-            dist/snake-dark.svg?color_snake=#E0B84C&color_dots=#0F1D16,#1B4332,#2D6A4F,#40916C,#52B788
+      # Calendario 3D isometrico -> profile-3d-contrib/
+      - name: Generar calendario 3D isometrico
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
-      # Una sola publicación de todo dist/ en la rama output (keep_files evita que se pisen entre sí)
+      # Mover los SVGs 3D al mismo dist/
+      - name: Mover SVGs 3D a dist
+        run: |
+          mkdir -p dist
+          cp profile-3d-contrib/*.svg dist/
+
+      # Publicar todo dist/ en la rama output (limpia los SVGs viejos de la serpiente)
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
