@@ -45,27 +45,27 @@
   <!-- ======================= VIENTO / MOVIMIENTO DE LA BICI ======================= -->
   <g clip-path="url(#hclip)" stroke-linecap="round" fill="none">
     <line x1="0" y1="118" x2="115" y2="118" stroke="#E0B84C" stroke-width="3" opacity="0">
-      <animateTransform attributeName="transform" type="translate" values="-180 0; 1340 0" dur="2.1s" begin="0s" repeatCount="indefinite"></animateTransform>
+      <animateTransform attributeName="transform" type="translate" values="1340 0; -180 0" dur="2.1s" begin="0s" repeatCount="indefinite"></animateTransform>
       <animate attributeName="opacity" values="0;0.42;0.42;0" keyTimes="0;0.15;0.7;1" dur="2.1s" begin="0s" repeatCount="indefinite"></animate>
     </line>
     <line x1="0" y1="150" x2="150" y2="150" stroke="#F3D27A" stroke-width="2.5" opacity="0">
-      <animateTransform attributeName="transform" type="translate" values="-200 0; 1340 0" dur="1.7s" begin="0.4s" repeatCount="indefinite"></animateTransform>
+      <animateTransform attributeName="transform" type="translate" values="1340 0; -200 0" dur="1.7s" begin="0.4s" repeatCount="indefinite"></animateTransform>
       <animate attributeName="opacity" values="0;0.5;0.5;0" keyTimes="0;0.15;0.7;1" dur="1.7s" begin="0.4s" repeatCount="indefinite"></animate>
     </line>
     <line x1="0" y1="188" x2="95" y2="188" stroke="#D8C3A5" stroke-width="2" opacity="0">
-      <animateTransform attributeName="transform" type="translate" values="-160 0; 1340 0" dur="2.5s" begin="0.9s" repeatCount="indefinite"></animateTransform>
+      <animateTransform attributeName="transform" type="translate" values="1340 0; -160 0" dur="2.5s" begin="0.9s" repeatCount="indefinite"></animateTransform>
       <animate attributeName="opacity" values="0;0.38;0.38;0" keyTimes="0;0.15;0.7;1" dur="2.5s" begin="0.9s" repeatCount="indefinite"></animate>
     </line>
     <line x1="0" y1="215" x2="135" y2="215" stroke="#E0B84C" stroke-width="3" opacity="0">
-      <animateTransform attributeName="transform" type="translate" values="-220 0; 1340 0" dur="1.9s" begin="1.3s" repeatCount="indefinite"></animateTransform>
+      <animateTransform attributeName="transform" type="translate" values="1340 0; -220 0" dur="1.9s" begin="1.3s" repeatCount="indefinite"></animateTransform>
       <animate attributeName="opacity" values="0;0.42;0.42;0" keyTimes="0;0.15;0.7;1" dur="1.9s" begin="1.3s" repeatCount="indefinite"></animate>
     </line>
     <line x1="0" y1="95" x2="80" y2="95" stroke="#F3D27A" stroke-width="2" opacity="0">
-      <animateTransform attributeName="transform" type="translate" values="-160 0; 1340 0" dur="2.3s" begin="1.8s" repeatCount="indefinite"></animateTransform>
+      <animateTransform attributeName="transform" type="translate" values="1340 0; -160 0" dur="2.3s" begin="1.8s" repeatCount="indefinite"></animateTransform>
       <animate attributeName="opacity" values="0;0.34;0.34;0" keyTimes="0;0.15;0.7;1" dur="2.3s" begin="1.8s" repeatCount="indefinite"></animate>
     </line>
     <line x1="0" y1="245" x2="105" y2="245" stroke="#D8C3A5" stroke-width="2.5" opacity="0">
-      <animateTransform attributeName="transform" type="translate" values="-200 0; 1340 0" dur="2.0s" begin="2.3s" repeatCount="indefinite"></animateTransform>
+      <animateTransform attributeName="transform" type="translate" values="1340 0; -200 0" dur="2.0s" begin="2.3s" repeatCount="indefinite"></animateTransform>
       <animate attributeName="opacity" values="0;0.36;0.36;0" keyTimes="0;0.15;0.7;1" dur="2.0s" begin="2.3s" repeatCount="indefinite"></animate>
     </line>
   </g>
