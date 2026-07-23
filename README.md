@@ -59,6 +59,15 @@
   </picture>
 </p>
 
+<!-- ======================= PAC-MAN (en vivo) ======================= -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man de contribuciones" src="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/pacman-contribution-graph.svg" width="98%" />
+  </picture>
+</p>
+
 <!-- ======================= FOOTER ======================= -->
 <p align="center">
   <img src="./assets/footer.svg" width="100%"/>
