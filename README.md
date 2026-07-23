@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 <p align="center">
-  <img src="./assets/header.svg?v=9" width="100%"/>
+  <img src="./assets/head-bg.webp" alt="Mimoun Baltit - Full Stack Developer" width="100%"/>
 </p>
 
 <!-- ======================= TYPING ======================= -->
