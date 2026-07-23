@@ -1,3 +1,8 @@
+<!-- ======================= ONDA ANIMADA (Capsule Render) ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1410,50:1B4332,100:52B788&height=190&section=header&text=Mimoun%20Baltit&fontSize=44&fontColor=E0B84C&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20IA%20%26%20LLM%20Security&descSize=17&descAlignY=57&descColor=D8C3A5&animation=fadeIn" width="100%"/>
+</p>
+
 <!-- ======================= HEADER ======================= -->
 <p align="center">
   <img src="./assets/header.svg" width="100%"/>
@@ -42,30 +47,22 @@
   <img src="https://streak-stats.demolab.com/?user=mxxmxxn&background=0F1D16&border=1B4332&ring=E0B84C&fire=52B788&currStreakLabel=E0B84C&currStreakNum=D8C3A5&sideLabels=D8C3A5&sideNums=74C69D&dates=74C69D&stroke=1B4332" width="70%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mxxmxxn&bg_color=0F1D16&color=D8C3A5&line=52B788&point=E0B84C&area=true&area_color=1B4332&hide_border=false&border_color=1B4332&custom_title=Actividad%20de%20contribuciones&title_color=E0B84C" width="98%"/>
-</p>
-
-<!-- ======================= TABLERO / SNAKE (en vivo) ======================= -->
+<!-- ======================= TABLERO / PAC-MAN (en vivo) ======================= -->
 <p align="center">
   <img src="./assets/head-tablero.png" width="100%"/>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/snake.svg" />
-    <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/snake.svg" width="98%" />
-  </picture>
-</p>
-
-<!-- ======================= PAC-MAN (en vivo) ======================= -->
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/pacman-contribution-graph.svg" />
     <img alt="Pac-Man de contribuciones" src="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/pacman-contribution-graph.svg" width="98%" />
   </picture>
+</p>
+
+<!-- ======================= CALENDARIO 3D ISOMÉTRICO (en vivo, animado) ======================= -->
+<p align="center">
+  <img alt="Calendario 3D de contribuciones" src="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/profile-green-animate.svg" width="98%" />
 </p>
 
 <!-- ======================= FOOTER ======================= -->
