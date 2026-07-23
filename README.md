@@ -39,8 +39,8 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mxxmxxn&show_icons=true&count_private=true&include_all_commits=true&bg_color=0F1D16&title_color=E0B84C&text_color=D8C3A5&icon_color=52B788&border_color=1B4332&ring_color=E0B84C" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxxmxxn&layout=compact&langs_count=10&bg_color=0F1D16&title_color=E0B84C&text_color=D8C3A5&border_color=1B4332" />
+  <img height="170" src="https://github-readme-stats-mimouns-projects-6fa23479.vercel.app/api?username=mxxmxxn&show_icons=true&count_private=true&include_all_commits=true&bg_color=0F1D16&title_color=E0B84C&text_color=D8C3A5&icon_color=52B788&border_color=1B4332&ring_color=E0B84C" />
+  <img height="170" src="https://github-readme-stats-mimouns-projects-6fa23479.vercel.app/api/top-langs/?username=mxxmxxn&layout=compact&langs_count=10&bg_color=0F1D16&title_color=E0B84C&text_color=D8C3A5&border_color=1B4332" />
 </p>
 
 <p align="center">
