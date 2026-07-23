@@ -29,15 +29,15 @@
   <rect width="1200" height="330" fill="url(#bg)"></rect>
   <rect width="1200" height="330" fill="url(#aura)"></rect>
   <g opacity="0.85">
-    <!-- Montañas lejanas (parallax lento) -->
+    <!-- Montañas lejanas (picos de distintos tamaños, veloces como las lineas) -->
     <g>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="40s" repeatCount="indefinite"></animateTransform>
-      <path d="M0,175 L150,110 L300,160 L450,100 L600,165 L750,105 L900,160 L1050,115 L1200,175 L1350,110 L1500,160 L1650,100 L1800,165 L1950,105 L2100,160 L2250,115 L2400,175 L2400,300 L0,300 Z" fill="#161b22" opacity="0.7"></path>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="2.6s" repeatCount="indefinite"></animateTransform>
+      <path d="M0,180 L120,90 L240,150 L340,120 L470,165 L560,75 L700,155 L820,130 L940,170 L1040,105 L1200,180 L1320,90 L1440,150 L1540,120 L1670,165 L1760,75 L1900,155 L2020,130 L2140,170 L2240,105 L2400,180 L2400,300 L0,300 Z" fill="#161b22" opacity="0.7"></path>
     </g>
-    <!-- Montañas delanteras (parallax más rápido) -->
+    <!-- Montañas delanteras (distintos tamaños, veloces como las lineas) -->
     <g>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="26s" repeatCount="indefinite"></animateTransform>
-      <path d="M0,235 L150,180 L300,235 L450,172 L600,238 L750,175 L900,235 L1050,182 L1200,235 L1350,180 L1500,235 L1650,172 L1800,238 L1950,175 L2100,235 L2250,182 L2400,235 L2400,300 L0,300 Z" fill="#21262d"></path>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="1.8s" repeatCount="indefinite"></animateTransform>
+      <path d="M0,240 L100,185 L220,242 L330,160 L470,245 L580,200 L690,246 L800,170 L930,244 L1060,195 L1200,240 L1300,185 L1420,242 L1530,160 L1670,245 L1780,200 L1890,246 L2000,170 L2130,244 L2260,195 L2400,240 L2400,300 L0,300 Z" fill="#21262d"></path>
     </g>
   </g>
   <g text-anchor="middle" font-family="'Segoe UI', Verdana, Geneva, sans-serif">
