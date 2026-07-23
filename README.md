@@ -54,9 +54,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man de contribuciones" src="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/pacman-contribution-graph.svg" width="98%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/pacman-contribution-graph-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/pacman-contribution-graph.svg?v=2" />
+    <img alt="Pac-Man de contribuciones" src="https://raw.githubusercontent.com/mxxmxxn/mxxmxxn/output/pacman-contribution-graph.svg?v=2" width="98%" />
   </picture>
 </p>
 
