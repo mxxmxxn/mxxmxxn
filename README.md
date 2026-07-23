@@ -43,10 +43,6 @@
   <img height="170" src="https://github-readme-stats-mimouns-projects-6fa23479.vercel.app/api/top-langs/?username=mxxmxxn&layout=compact&langs_count=10&bg_color=0F1D16&title_color=E0B84C&text_color=D8C3A5&border_color=1B4332" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mxxmxxn&background=0F1D16&border=1B4332&ring=E0B84C&fire=52B788&currStreakLabel=E0B84C&currStreakNum=D8C3A5&sideLabels=D8C3A5&sideNums=74C69D&dates=74C69D&stroke=1B4332" width="70%"/>
-</p>
-
 <!-- ======================= TABLERO / PAC-MAN (en vivo) ======================= -->
 <p align="center">
   <img src="./assets/head-tablero.png" width="100%"/>
